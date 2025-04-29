@@ -1,2 +1,2 @@
 # autoshutdown
-Autoshutdown for Linux with notification and cancel functionality.
+Autoshutdown for Linux/X11 with notification and cancel functionality.
